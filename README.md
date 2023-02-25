@@ -15,8 +15,8 @@ The following **required** functionality is completed:
 
 ![Screenshot_20230225_045509](https://user-images.githubusercontent.com/30635422/221381309-27971701-479d-480a-8ed8-8c7681113c70.png)
 
-*[X] Add buttons or links to a related resource on each card component
-*[X] Make the site responsive for both desktop and mobile formats
+* [X] Add buttons or links to a related resource on each card component
+* [X] Make the site responsive for both desktop and mobile formats
 
 ## Video Walkthrough
 
